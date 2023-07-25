@@ -1,0 +1,10 @@
+* cl-opsresearch
+
+CL-OpsResearch is a Lisp system for machine learning, optimization, and analytics.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/opsresearch/cl-opsresearch.git   |
+| commit  | 6989fad  |
+| systems | cl-opsresearch |
+|---------+-------------------------------------------|
+
